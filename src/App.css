@@ -1,0 +1,34 @@
+.navbar{
+    background-color: lightslategrey;
+    height: 80px;
+}
+.btn-add{
+    background-color: yellowgreen;
+}
+.btn-reg{
+    background-color: darkturquoise;
+    color:darkslategrey;
+}
+.pdp{
+    width: 200px;
+    margin-left: 1rem;
+}
+.tizim{
+    margin-top: 4rem;
+    width: 100%;
+    padding: 5px;
+    background-color: #90f97a;
+    border: 1px solid rgba(19, 45, 70, 0.3);
+    border-radius: 10px;
+}
+.royhat{
+    margin-top: 4rem;
+    width: 100%;
+    padding: 5px;
+    background-color: #719be9;
+    border: 1px solid rgba(19, 45, 70, 0.3);
+    border-radius: 10px;
+}
+.cabinet{
+    margin-top: 4rem;
+}
